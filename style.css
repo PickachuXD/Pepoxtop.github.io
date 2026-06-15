@@ -1,5 +1,7 @@
 .Centrado {
     width: 100%;
+    display: flex;
+    justify-content: center;
     align-items: center;
 }
 
@@ -10,6 +12,7 @@
 
 .TXTCentrado {
     text-align: center;
+    color: white;
 }
 
 @keyframes cambioColores {
