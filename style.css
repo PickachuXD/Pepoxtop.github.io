@@ -14,6 +14,9 @@
     gap: 20px;
 }
 
+a {color: aqua;}
+a:hover { color: white;}
+
 .Bienvenida {
     text-align: center;
     animation: cambioColores 2s infinite;
