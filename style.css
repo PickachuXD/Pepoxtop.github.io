@@ -32,6 +32,10 @@ a:hover { color: white;}
     text-rendering: optimizeSpeed;
 }
 
+.DIVAncho {
+    width: 100%;
+}
+
 .Bienvenida {
     text-align: center;
     animation: cambioColores 2s infinite;
