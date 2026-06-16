@@ -61,6 +61,20 @@ a:hover { color: white;}
     100% {color: #ff0000;} /* Rojo otra vez por el loop */
 }
 
+.Noticia {
+    display: flex;
+}
+
+.TituloNoticia {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.TextoNoticia {
+    display: inline-block;
+    vertical-align: top;
+}
+
 body {
     background-image: url("esrellas.png");
     image-rendering: pixelated; /* Para que no se vuelva borrosa la imagen */
